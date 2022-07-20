@@ -17,8 +17,8 @@ Now you have the script installed but it won't do anything yet as it needs to kn
 If you do use Gist ensure you use the correct URL, the URL github gives when you click raw is for that commit with two Guids:
 https://gist.githubusercontent.com/JoePittsy/guidA/raw/guidB/supportedEnvironments.js
 
-Remove the second GUID to get a raw link to the most up-to date version:
-https://gist.githubusercontent.com/JoePittsy/guidA/raw/supportedEnvironments.js
+Remove the second GUID and the filename to get a raw link to the most up-to date version:
+https://gist.githubusercontent.com/JoePittsy/guidA/raw
 ```
 
 Populate this file with an object describing your environments, an example supportedEnvironments.js may look like this.
