@@ -7,7 +7,7 @@
 // @website      https://truenorthit.co.uk/
 // @source       https://github.com/TrueNorthIT/PowerApps-Environment-Highlight
 // @match        https://make.powerapps.com/environments/*
-// @icon         view-source:https://truenorthit.co.uk/wp-content/themes/truenorth/img/icons/touch.png
+// @icon         https://truenorthit.co.uk/wp-content/themes/truenorth/img/icons/touch.png
 // @grant        GM_addStyle
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
